@@ -1,1 +1,5 @@
-# dadoscovid
+ - **Dashboard**: 
+  - Google Data Studio ([link](https://lookerstudio.google.com/reporting/c4dfd97e-89fc-4b36-ab1c-87527e9d58e6)).
+ - **Fontes**: 
+  - Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
+  - Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
